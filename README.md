@@ -14,4 +14,4 @@ check out what it looks like when its finished: dont worry, there are more color
 
 
 
-  now, a video of it is too big, so see it in a file.
+  now, a video of it is too big, so.. try the code.
