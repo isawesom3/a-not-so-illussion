@@ -11,3 +11,7 @@ now to see what it does, theres no link or anything, and theres no website to se
 
 check out what it looks like when its finished: dont worry, there are more colors       
  ![Screenshot 2024-11-10 6 04 34 PM](https://github.com/user-attachments/assets/18b3b1fb-2cb3-48b8-91e7-1a2c324ca868)
+
+
+
+  now, a video of it is too big, so see it in a file.
