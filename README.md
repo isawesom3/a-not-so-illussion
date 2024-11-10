@@ -14,4 +14,4 @@ check out what it looks like when its finished: dont worry, there are more color
 
 
 
-  now, a video of it is too big, so.. try the code.
+  now, a video of it is too big to go into the README or any of the other files, so.. try the code.
