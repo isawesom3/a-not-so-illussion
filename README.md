@@ -1,7 +1,7 @@
 # an illusion
 
 NOTICE:  
-OK, straight off the bat, hope u like this, 'cuz it has exactly 1,768 lines of basic python turtle code.   (ye, i counted)    
+OK, straight off the bat, hope u like this, 'cuz it has exactly 1,768 lines of basic python turtle code.   (yes, i counted)    
 
  
 now to see what it does, theres no link or anything, and theres no website to see it on, and you cant download it, so i guess all you cand do is copy the code from the .py file, and paste it into an IDE or IDLE or whatever its called.  
