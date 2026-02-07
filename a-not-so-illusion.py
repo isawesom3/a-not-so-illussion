@@ -1,6 +1,8 @@
+#create a turtle
 import turtle
 t = turtle.Turtle()
 t.speed(5)
+#start the not illusion
 t.right(36)
 t.forward(1)
 t.right(37)
